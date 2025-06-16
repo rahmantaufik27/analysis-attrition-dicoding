@@ -8,16 +8,10 @@ Perusahaan Jaya Jaya Maju menghadapi tingginya tingkat attrition karyawan, meleb
 
 Proyek ini bertujuan untuk mengatasi beberapa tantangan bisnis utama yang dihadapi oleh perusahaan Jaya Jaya Maju terkait tingkat *attrition* yang tinggi:
 
-* **Mengidentifikasi Akar Penyebab Attrition**: Mendapatkan pemahaman mendalam tentang faktor-faktor krusial—baik dari aspek demografi karyawan, tingkat kepuasan kerja, maupun indikator finansial—yang berkontribusi pada keputusan karyawan untuk *resign*.
-* **Menganalisis Kepuasan Karyawan**: Menilai dan memahami tingkat kepuasan karyawan berdasarkan dimensi-dimensi penting seperti _Job Satisfaction_, _Work-Life Balance_, dan _Environment Satisfaction_.
-* **Mengungkap Pola Perilaku Karyawan yang Berisiko Resign**: Mengidentifikasi karakteristik dan kebiasaan umum pada karyawan yang cenderung meninggalkan perusahaan, termasuk dampak dari faktor seperti jarak tempat tinggal ke kantor, kebiasaan lembur (_OverTime_), dan tingkat pendapatan.
+* **Mengidentifikasi Akar Penyebab Attrition**: Mendapatkan pemahaman mendalam tentang faktor-faktor krusial—baik dari aspek demografi karyawan, status karyawan, maupun indikator finansial—yang berkontribusi pada keputusan karyawan untuk *resign*.
+* **Menganalisis Kepuasan Karyawan**: Menilai dan memahami tingkat kepuasan karyawan berdasarkan dimensi-dimensi penting seperti _Monthly Salary Income_, _Monthly Rate_, dan lain-lain.
+* **Mengungkap Pola Perilaku Karyawan yang Berisiko Resign**: Mengidentifikasi karakteristik dan kebiasaan umum pada karyawan yang cenderung meninggalkan perusahaan, termasuk dampak dari faktor seperti jarak tempat tinggal ke kantor, kebiasaan lembur (_OverTime_), dan lain-lain.
 * **Menyediakan Solusi Analisis Berkelanjutan**: Mengembangkan sebuah _business dashboard_ interaktif yang akan menjadi alat esensial bagi manajemen HR untuk memantau, menganalisis, dan memahami dinamika _attrition_ secara visual dan _real-time_.
-
-Dengan berhasil menyelesaikan poin-poin permasalahan di atas, perusahaan diharapkan dapat:
-
-* **Menekan Attrition Rate**: Mengambil tindakan pencegahan yang lebih tepat sasaran untuk mengurangi jumlah karyawan yang *resign*.
-* **Meningkatkan Efektivitas Program Retensi**: Merancang dan menerapkan inisiatif retensi karyawan yang didasarkan pada data dan wawasan yang akurat.
-* **Meningkatkan Kesejahteraan Karyawan**: Berkontribusi pada peningkatan kepuasan kerja dan, pada akhirnya, produktivitas karyawan secara keseluruhan.
 
 ## Cakupan Proyek
 
@@ -103,10 +97,6 @@ Berdasarkan permasalahan bisnis terkait identifikasi faktor penyebab attrition, 
 - Pendapatan bulanan (Monthly Income)
 - Usia
 - Status pernikahan
-
-Untuk mengurangi attrition rate secara efektif, rekomendasi tindakan utama mencakup:
-- **Prioritas pada Kompensasi & Keseimbangan Kerja**: Perusahaan perlu mengevaluasi dan menyesuaikan struktur gaji agar kompetitif dan adil, terutama bagi karyawan berkinerja tinggi. Selain itu, kebijakan yang mengurangi beban lembur harus diterapkan secara ketat untuk meningkatkan work-life balance, mengingat lembur adalah pemicu resign yang signifikan.
-- **Strategi Retensi Berbasis Data**: Upaya retensi harus ditargetkan pada karyawan yang memiliki karakteristik rentan attrition, seperti masa kerja singkat di perusahaan atau peran saat ini, atau riwayat sering berpindah kerja. Mengembangkan program pengembangan karier dan dukungan manajerial yang disesuaikan juga penting, serta memperhatikan kondisi karyawan berdasarkan usia dan status pernikahan.
 
 ### Rekomendasi Action Items (Optional)
 
