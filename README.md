@@ -89,14 +89,17 @@ Untuk menjalankan proyek ini, pastikan Anda memiliki **Python** terinstal di sis
 
 ## Conclusion
 
-Berdasarkan permasalahan bisnis terkait identifikasi faktor penyebab attrition, dilakukan pemodelan klasifikasi attrition menggunakan model ML dengan metode Random Forest serta pengembangan Business Dashboard untuk analisis lebih lanjut, hasilnya dapat disimpulkan untuk faktor-faktor yang paling berpengaruh terhadap attrition antara lain:
-- Lama bekerja di perusahaan saat ini (Years at company)
-- Total pengalaman kerja secara keseluruhan (Total working years)
-- Lembur (overtime)
-- Jumlah perusahaan sebelumnya (Numbers company worked)
-- Pendapatan bulanan (Monthly Income)
-- Usia
-- Status pernikahan
+Proyek ini telah berhasil mengatasi tantangan bisnis utama perusahaan Jaya Jaya Maju terkait attrition rate yang tinggi melalui serangkaian analisis komprehensif. Melalui proses eksplorasi data dan analisis mendalam, kami berhasil **mengidentifikasi akar penyebab attrition, menganalisis kepuasan karyawan, dan mengungkap pola perilaku karyawan yang berisiko resign**. Ditemukan bahwa faktor-faktor paling berpengaruh terhadap attrition meliputi:
+
+- **Lama bekerja di perusahaan saat ini (Years at company)**: Karyawan dengan masa kerja yang relatif singkat, lebih rentan mengalami attrition. Hal ini bisa disebabkan oleh ketidakcocokan awal, kurangnya ikatan emosional dengan perusahaan, atau pencarian peluang yang lebih baik.
+- **Total pengalaman kerja secara keseluruhan (Total working years)**: Karyawan dengan total pengalaman kerja yang lebih sedikit cenderung memiliki tingkat attrition yang lebih tinggi. Mereka mungkin masih dalam tahap eksplorasi karier atau belum menemukan "rumah" profesional yang cocok.
+- **Lembur (overtime)**: Beban kerja lembur yang sering dan tidak seimbang secara signifikan meningkatkan risiko attrition. Hal ini berdampak negatif pada work-life balance dan dapat menyebabkan burnout.
+- **Jumlah perusahaan sebelumnya (Numbers company worked)**: Karyawan dengan riwayat berpindah-pindah perusahaan (memiliki jumlah perusahaan sebelumnya yang lebih tinggi) mungkin memiliki kecenderungan lebih tinggi untuk resign lagi, karena mereka terbiasa dengan perubahan lingkungan kerja.
+- **Pendapatan bulanan (Monthly Income)**: Pendapatan yang dirasa tidak adil atau tidak kompetitif menjadi pendorong utama attrition. Karyawan cenderung mencari peluang dengan kompensasi yang lebih baik jika merasa gajinya tidak sesuai dengan nilai atau kontribusi mereka.
+- **Usia**: Karyawan yang lebih muda (terutama di awal karier) seringkali memiliki tingkat attrition yang lebih tinggi karena mereka aktif mencari pengalaman dan peluang baru, atau belum memiliki komitmen jangka panjang.
+- **Status pernikahan**: Status pernikahan (misalnya, single atau divorced) dapat memengaruhi keputusan attrition, mungkin karena perbedaan tanggung jawab finansial atau kebutuhan akan stabilitas.
+
+Selain itu, proyek ini juga menyertakan pengembangan Business Dashboard sebagai solusi analisis berkelanjutan, yang memungkinkan manajemen HR untuk memantau tren attrition dan faktor-faktor pendorongnya secara real-time dan visual.
 
 ### Rekomendasi Action Items (Optional)
 
