@@ -8,16 +8,16 @@ Perusahaan Jaya Jaya Maju menghadapi tingginya tingkat attrition karyawan, meleb
 
 Proyek ini bertujuan untuk mengatasi beberapa tantangan bisnis utama yang dihadapi oleh perusahaan Jaya Jaya Maju terkait tingkat *attrition* yang tinggi:
 
-* **_Mengidentifikasi Akar Penyebab Attrition_**: Mendapatkan pemahaman mendalam tentang faktor-faktor krusial—baik dari aspek demografi karyawan, tingkat kepuasan kerja, maupun indikator finansial—yang berkontribusi pada keputusan karyawan untuk *resign*.
-* **_Menganalisis Kepuasan Karyawan_**: Menilai dan memahami tingkat kepuasan karyawan berdasarkan dimensi-dimensi penting seperti _Job Satisfaction_, _Work-Life Balance_, dan _Environment Satisfaction_.
-* **_Mengungkap Pola Perilaku Karyawan yang Berisiko Resign_**: Mengidentifikasi karakteristik dan kebiasaan umum pada karyawan yang cenderung meninggalkan perusahaan, termasuk dampak dari faktor seperti jarak tempat tinggal ke kantor, kebiasaan lembur (_OverTime_), dan tingkat pendapatan.
-* **_Menyediakan Solusi Analisis Berkelanjutan_**: Mengembangkan sebuah _business dashboard_ interaktif yang akan menjadi alat esensial bagi manajemen HR untuk memantau, menganalisis, dan memahami dinamika _attrition_ secara visual dan _real-time_.
+* **Mengidentifikasi Akar Penyebab Attrition**: Mendapatkan pemahaman mendalam tentang faktor-faktor krusial—baik dari aspek demografi karyawan, tingkat kepuasan kerja, maupun indikator finansial—yang berkontribusi pada keputusan karyawan untuk *resign*.
+* **Menganalisis Kepuasan Karyawan**: Menilai dan memahami tingkat kepuasan karyawan berdasarkan dimensi-dimensi penting seperti _Job Satisfaction_, _Work-Life Balance_, dan _Environment Satisfaction_.
+* **Mengungkap Pola Perilaku Karyawan yang Berisiko Resign**: Mengidentifikasi karakteristik dan kebiasaan umum pada karyawan yang cenderung meninggalkan perusahaan, termasuk dampak dari faktor seperti jarak tempat tinggal ke kantor, kebiasaan lembur (_OverTime_), dan tingkat pendapatan.
+* **Menyediakan Solusi Analisis Berkelanjutan**: Mengembangkan sebuah _business dashboard_ interaktif yang akan menjadi alat esensial bagi manajemen HR untuk memantau, menganalisis, dan memahami dinamika _attrition_ secara visual dan _real-time_.
 
 Dengan berhasil menyelesaikan poin-poin permasalahan di atas, perusahaan diharapkan dapat:
 
-* **_Menekan Attrition Rate_**: Mengambil tindakan pencegahan yang lebih tepat sasaran untuk mengurangi jumlah karyawan yang *resign*.
-* **_Meningkatkan Efektivitas Program Retensi_**: Merancang dan menerapkan inisiatif retensi karyawan yang didasarkan pada data dan wawasan yang akurat.
-* **_Meningkatkan Kesejahteraan Karyawan_**: Berkontribusi pada peningkatan kepuasan kerja dan, pada akhirnya, produktivitas karyawan secara keseluruhan.
+* **Menekan Attrition Rate**: Mengambil tindakan pencegahan yang lebih tepat sasaran untuk mengurangi jumlah karyawan yang *resign*.
+* **Meningkatkan Efektivitas Program Retensi**: Merancang dan menerapkan inisiatif retensi karyawan yang didasarkan pada data dan wawasan yang akurat.
+* **Meningkatkan Kesejahteraan Karyawan**: Berkontribusi pada peningkatan kepuasan kerja dan, pada akhirnya, produktivitas karyawan secara keseluruhan.
 
 ## Cakupan Proyek
 
