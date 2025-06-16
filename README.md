@@ -78,6 +78,13 @@ Untuk menjalankan proyek ini, pastikan Anda memiliki **Python** terinstal di sis
         ```
     * Sebuah tab *browser* akan terbuka, menampilkan antarmuka Jupyter. Navigasikan ke `Preprocessing/Eksperiment_rtaufik27.ipynb` dan buka file tersebut untuk melihat hasil eksplorasi data analisis serta pemodelan *machine learning* (ML). Ikuti instruksi di dalam *notebook* untuk menjalankan setiap sel.
 
+6.  **Menjalankan Skrip Python (.py) (Opsional)**
+    Python script untuk memprediksi attrtion dijalankan secara terpisah, gunakan perintah berikut di terminal:
+
+    ```bash
+    python3 prediction.py
+    ```
+
 ## Business Dashboard
 
 - Business Dashboard dikembangkan menggunakan Google Looker Studio dan data hasil pemodelan ML sebelumnya
@@ -97,8 +104,12 @@ Berdasarkan permasalahan bisnis terkait identifikasi faktor penyebab attrition, 
 - Usia
 - Status pernikahan
 
+Untuk mengurangi attrition rate secara efektif, rekomendasi tindakan utama mencakup:
+- **Prioritas pada Kompensasi & Keseimbangan Kerja**: Perusahaan perlu mengevaluasi dan menyesuaikan struktur gaji agar kompetitif dan adil, terutama bagi karyawan berkinerja tinggi. Selain itu, kebijakan yang mengurangi beban lembur harus diterapkan secara ketat untuk meningkatkan work-life balance, mengingat lembur adalah pemicu resign yang signifikan.
+- **Strategi Retensi Berbasis Data**: Upaya retensi harus ditargetkan pada karyawan yang memiliki karakteristik rentan attrition, seperti masa kerja singkat di perusahaan atau peran saat ini, atau riwayat sering berpindah kerja. Mengembangkan program pengembangan karier dan dukungan manajerial yang disesuaikan juga penting, serta memperhatikan kondisi karyawan berdasarkan usia dan status pernikahan.
+
 ### Rekomendasi Action Items (Optional)
 
-1) Fokus pada Karyawan Loyal dan Matang:Saat rekrutmen, utamakan kandidat dengan riwayat kerja yang stabil (lama di perusahaan sebelumnya), usia yang lebih matang, dan kondisi pribadi yang stabil. Terutama untuk posisi penting seperti riset atau strategis.
-2) Ciptakan Lingkungan Kerja yang Seimbang:Kurangi beban lembur. Data menunjukkan lembur berkontribusi besar terhadap keputusan karyawan untuk keluar. Budaya kerja yang menghargai work-life balance bisa menurunkan angka attrition.
-3) Perhatikan Kompensasi dan Kepuasan Karyawan:Pendapatan yang terlalu rendah, atau tidak sesuai dengan pengalaman, bisa menjadi pemicu resign. Pertimbangkan review berkala terhadap struktur gaji dan kepuasan kerja.
+1) **Fokus pada Karyawan Loyal dan Matang**: Saat rekrutmen, utamakan kandidat dengan riwayat kerja yang stabil (lama di perusahaan sebelumnya), usia yang lebih matang, dan kondisi pribadi yang stabil. Terutama untuk posisi penting seperti riset atau strategis.
+2) **Ciptakan Lingkungan Kerja yang Seimbang**: Kurangi beban lembur. Data menunjukkan lembur berkontribusi besar terhadap keputusan karyawan untuk keluar. Budaya kerja yang menghargai work-life balance bisa menurunkan angka attrition.
+3) **Perhatikan Kompensasi dan Kepuasan Karyawan**:Pendapatan yang terlalu rendah, atau tidak sesuai dengan pengalaman, bisa menjadi pemicu resign. Pertimbangkan review berkala terhadap struktur gaji dan kepuasan kerja.
